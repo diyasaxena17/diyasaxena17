@@ -97,30 +97,17 @@ I'm passionate about creating high-impact projects at the intersection of financ
 
 ---
 
-
 ## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/diyasaxena17">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=diyasaxena17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyasaxena17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF"
-  />
-</a>
 
-<br/><br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=diyasaxena17&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"
-  alt="GitHub Streak"
-/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diyasaxena17&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://github.com/diyasaxena17)
 
 </div>
+
+
+
 
 🌍 Open to Opportunities<div align="left">
 
