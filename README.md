@@ -108,7 +108,6 @@ I'm passionate about creating high-impact projects at the intersection of financ
 
 
 
-
 🌍 Open to Opportunities<div align="left">
 
 📍 Based in: Toronto / Waterloo, Ontario, Canada
