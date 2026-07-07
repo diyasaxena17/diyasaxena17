@@ -101,8 +101,22 @@ I'm passionate about creating high-impact projects at the intersection of financ
 
 <div align="center">
 
+<a href="https://github.com/diyasaxena17">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=diyasaxena17&amp;show_icons=true&amp;include_all_commits=true&amp;hide=stars,contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;hide_rank=true&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;title_color=6366F1&amp;text_color=C9D1D9&amp;icon_color=A78BFA&amp;bg_color=0D1117&amp;hide_border=true&amp;border_radius=10&amp;custom_title=Contribution%20Overview"
+    alt="Diya Saxena's GitHub contribution overview"
+  />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diyasaxena17&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://github.com/diyasaxena17)
+<br/><br/>
+
+<a href="https://github.com/diyasaxena17">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=diyasaxena17&amp;bg_color=0D1117&amp;color=C9D1D9&amp;title_color=6366F1&amp;line=6366F1&amp;point=A78BFA&amp;area=true&amp;area_color=6366F1&amp;hide_border=true&amp;radius=10&amp;days=40&amp;custom_title=Recent%20Contribution%20Activity"
+    alt="Diya Saxena's recent GitHub contribution activity"
+  />
+</a>
 
 </div>
 
