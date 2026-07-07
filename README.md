@@ -42,7 +42,7 @@
 class DiyaSaxena:
     def __init__(self):
         self.education = "University of Waterloo"
-        self.program = "Computing & Financial Management"
+        self.program = "CS + Finance"
         self.current_role = "Technical PM Intern @ FSRA"
         self.highlight_role = "Sponsorship Coordinator @ Hack the North"
         self.based_in = ["Toronto", "Waterloo"]
@@ -141,7 +141,7 @@ class DiyaSaxena:
 
 ## Things I've Built
 
-### RaceIQ — In Progress
+### RaceIQ (In Progress)
 
 - Currently building an interactive **F1 strategy intelligence platform**
 - Developing a **Pit Now vs. Stay Out** model using tyre data, stint information, and race conditions
