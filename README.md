@@ -44,8 +44,9 @@ class DiyaSaxena:
         self.education = "University of Waterloo"
         self.program = "Computing & Financial Management"
         self.current_role = "Technical PM Intern @ FSRA"
+        self.highlight_role = "Sponsorship Coordinator @ Hack the North"
         self.based_in = ["Toronto", "Waterloo"]
-        self.work_authorization = ["United States","Canada"]
+        self.work_authorization = ["United States", "Canada"]
 
     def interests(self):
         return [
@@ -58,9 +59,9 @@ class DiyaSaxena:
 
     def currently(self):
         return {
-            "building": "an AI research agent",
+            "building": "RaceIQ — an F1 strategy intelligence platform",
             "exploring": "financial systems, data, and software",
-            "open_to": "interesting people, projects, and opportunities",
+            "open_to": "interesting convos, projects, and opportunities",
         }
 ```
 
@@ -68,6 +69,34 @@ class DiyaSaxena:
 - Most of my projects live somewhere between **finance, data, and software**.
 - I am currently interning as a **Technical PM at FSRA**.
 - I enjoy learning how systems work, testing ideas, and building with people who care about the details.
+
+### Hackathons
+
+**I spend time on both sides of hackathons: building projects and helping make the events happen.**
+
+- **Hack the North — Sponsorship Coordinator:** helping organize the event by working with sponsors, coordinating partnerships, and supporting the experience behind the scenes.
+- **CxC — Sponsorship:** organized sponsorship for an AI-focused hackathon.
+- **DeltaHacks 12 — Hacker:** attended and built **MediMonitor** with my team.
+- **ChessHacks — Hacker:** built [or more like **tried** to build] a chess bot to beat all other bots.
+
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/Hack%20the%20North-Organizer-6366F1?style=flat-square&labelColor=0D1117"
+    alt="Hack the North Organizer"
+  />
+  <img
+    src="https://img.shields.io/badge/CxC-Sponsorship-6366F1?style=flat-square&labelColor=0D1117"
+    alt="CxC Sponsorship"
+  />
+  <img
+    src="https://img.shields.io/badge/DeltaHacks%2012-Hacker-6366F1?style=flat-square&labelColor=0D1117"
+    alt="DeltaHacks 12 Hacker"
+  />
+  <img
+    src="https://img.shields.io/badge/ChessHacks-Hacker-6366F1?style=flat-square&labelColor=0D1117"
+    alt="ChessHacks Hacker"
+  />
+</p>
 
 ---
 
@@ -112,7 +141,7 @@ class DiyaSaxena:
 
 ## Things I've Built
 
-### RaceIQ (In Prog)
+### RaceIQ — In Progress
 
 - Currently building an interactive **F1 strategy intelligence platform**
 - Developing a **Pit Now vs. Stay Out** model using tyre data, stint information, and race conditions
@@ -138,7 +167,6 @@ class DiyaSaxena:
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Optimization-6366F1?style=flat-square" alt="Optimization"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-
 </p>
 
 ### Shopify Arbitrage
@@ -152,10 +180,9 @@ class DiyaSaxena:
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/yfinance-6001D2?style=flat-square&logo=yahoo&logoColor=white" alt="yfinance"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-
 </p>
 
-### MediMonitor (Deltahacks 12)
+### MediMonitor — DeltaHacks 12
 
 - Built a healthcare application focused on monitoring patient information and health signals
 - Worked on making complex health data easier to understand and act on
@@ -163,7 +190,6 @@ class DiyaSaxena:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-
 </p>
 
 ---
@@ -196,15 +222,16 @@ class DiyaSaxena:
 ## Right Now
 
 - Interning as a **Technical PM at FSRA**
+- Organizing **Hack the North** as a Sponsorship Coordinator
 - Studying **Computing & Financial Management** at the University of Waterloo
 - Building projects across **fintech, data, machine learning, and software**
 - Based between **Toronto and Waterloo, Ontario**
 - Interested in internships across **fintech, quant, data, and software engineering**
-- Open to opportunities across **Canada, the United States, and India**
+- Open to opportunities across **Canada and the United States**
 
 ## Reach Out
 
-I am always happy to meet people working on thoughtful problems in finance, data, or software.
+I am always happy to meet people working on thoughtful problems in finance, data, software, or the hackathon community.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diya-saxena-professional/">
