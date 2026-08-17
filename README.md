@@ -59,50 +59,34 @@ class DiyaSaxena:
 
     def currently(self):
         return {
-            "building": "RaceIQ — an F1 strategy intelligence platform",
+            "building": "Fun stuff...",
             "exploring": "financial systems, data, and software",
             "open_to": "interesting convos, projects, and opportunities",
         }
 ```
 
-- I like taking broad or messy questions and turning them into something useful.
-- Most of my projects live somewhere between **finance, data, and software**.
-- I am currently interning as a **Technical PM at FSRA**.
-- I enjoy learning how systems work, testing ideas, and building with people who care about the details.
+A little bit of **finance**, a little bit of **code**, and way too much curiosity about how things work.
 
-### Hackathons
+I like turning *"wait... could we build that?"* into *"oh sick, it works."*
 
-**I spend time on both sides of hackathons: building projects and helping make the events happen.**
+- 🧑‍💻 Technical PM Intern @ **FSRA**
+- 🦆 Sponsorship Coordinator @ **Hack the North**
+- 🎓 Studying **CS + Finance @ Waterloo**
+- 🏎️ Building around **finance, ML, data, and F1**
+- 🕳️ Frequently disappearing into technical & financial rabbit holes
 
-- **Hack the North — Sponsorship Coordinator:** helping organize the event by working with sponsors, coordinating partnerships, and supporting the experience behind the scenes.
-- **CxC — Sponsorship:** organized sponsorship for an AI-focused hackathon.
-- **DeltaHacks 12 — Hacker:** attended and built **MediMonitor** with my team.
-- **ChessHacks — Hacker:** built [or more like **tried** to build] a chess bot to beat all other bots.
+### Hackathon Lore
 
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/Hack%20the%20North-Organizer-6366F1?style=flat-square&labelColor=0D1117"
-    alt="Hack the North Organizer"
-  />
-  <img
-    src="https://img.shields.io/badge/CxC-Sponsorship-6366F1?style=flat-square&labelColor=0D1117"
-    alt="CxC Sponsorship"
-  />
-  <img
-    src="https://img.shields.io/badge/DeltaHacks%2012-Hacker-6366F1?style=flat-square&labelColor=0D1117"
-    alt="DeltaHacks 12 Hacker"
-  />
-  <img
-    src="https://img.shields.io/badge/ChessHacks-Hacker-6366F1?style=flat-square&labelColor=0D1117"
-    alt="ChessHacks Hacker"
-  />
-</p>
+I somehow ended up on both sides of hackathons.
 
----
+- **Hack the North** → Organizer
+- **Cerebras x Google Gemma 4 Hackethon** → Hacker
+- **Hack The Six 2026** → Hacker
+- **DeltaHacks 12** → Hacker
+- **CxC** → Sponsorship
+- **ChessHacks** → Tried to build a chess bot *(emphasis on tried)*
 
-## What I Work With
-
-### Core
+### Things I Speak
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -113,84 +97,15 @@ class DiyaSaxena:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-- **Python** for data, automation, finance projects, and machine learning
-- **Java and C** for programming fundamentals and lower-level problem solving
-- **TypeScript** for web applications and backend work
-- **SQL** for working with structured data
-- **Git** for version control and collaboration
-
-### Data, ML & Quantitative Computing
-
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/yfinance-6001D2?style=flat-square&logo=yahoo&logoColor=white" alt="yfinance"/>
-</p>
-
-- Cleaning and exploring data with **Pandas**
-- Numerical modelling and optimization with **NumPy**
-- Training and evaluating models with **scikit-learn**
-- Creating visual explanations with **Matplotlib**
-- Prototyping analysis in **Jupyter**
-- Working with financial-market data through **yfinance**
-
----
-
-## Things I've Built
-
-### RaceIQ (In Progress)
-
-- Currently building an interactive **F1 strategy intelligence platform**
-- Developing a **Pit Now vs. Stay Out** model using tyre data, stint information, and race conditions
-- Building the dashboard, backend API, and machine learning pipeline
-
-<p>
-  <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
-### Alpha Optimizer
-
-- Built a quantitative portfolio optimization project
-- Tested different allocations under risk and return constraints
-- Explored how optimization methods could improve portfolio construction
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Optimization-6366F1?style=flat-square" alt="Optimization"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-</p>
-
-### Shopify Arbitrage
-
-- Compared Shopify shares listed on the TSX and NYSE
-- Accounted for currency conversion and cross-border pricing differences
-- Explored when an apparent arbitrage opportunity was actually worth acting on
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/yfinance-6001D2?style=flat-square&logo=yahoo&logoColor=white" alt="yfinance"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-</p>
-
-### MediMonitor — DeltaHacks 12
-
-- Built a healthcare application focused on monitoring patient information and health signals
-- Worked on making complex health data easier to understand and act on
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
+*Mostly used to make computers do things they probably didn't ask to do.*
 
 ---
 
@@ -219,21 +134,11 @@ class DiyaSaxena:
 
 ---
 
-## Right Now
+## Say Hi 👋
 
-- Interning as a **Technical PM at FSRA**
-- Organizing **Hack the North** as a Sponsorship Coordinator
-- Studying **Computing & Financial Management** at the University of Waterloo
-- Building projects across **fintech, data, machine learning, and software**
-- Based between **Toronto and Waterloo, Ontario**
-- Interested in internships across **fintech, quant, data, and software engineering**
-- Open to opportunities across **Canada and the United States**
+If you're building something **weird, useful, financial, data-y, or unnecessarily ambitious**, I'd probably like to hear about it.
 
-## Reach Out
-
-I am always happy to meet people working on thoughtful problems in finance, data, software, or the hackathon community.
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/diya-saxena-professional/">
     <img
       src="https://img.shields.io/badge/LinkedIn-connect-6366F1?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117"
@@ -255,10 +160,8 @@ I am always happy to meet people working on thoughtful problems in finance, data
 </p>
 
 <div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=90&section=footer"
-  alt=""
-/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=90&section=footer"
+    alt=""
+  />
 </div>
