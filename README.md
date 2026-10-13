@@ -65,13 +65,17 @@ somehow ended up on both sides of hackathons.
 ### 💜 a little github activity
 
 <div align="center">
-  <a href="https://github.com/diyasaxena17">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=diyasaxena17&amp;bg_color=0D1117&amp;color=C9D1D9&amp;title_color=A78BFA&amp;line=8B5CF6&amp;point=C4B5FD&amp;area=true&amp;hide_border=true&amp;custom_title=My%20GitHub%20Activity"
-      width="100%"
-      alt="Diya's GitHub activity graph"
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/diyasaxena17/diyasaxena17/output/github-contribution-grid-snake-dark.svg"
     />
-  </a>
+    <img
+      src="https://raw.githubusercontent.com/diyasaxena17/diyasaxena17/output/github-contribution-grid-snake.svg"
+      alt="Diya's GitHub contribution snake"
+      width="100%"
+    />
+  </picture>
 </div>
 
 
