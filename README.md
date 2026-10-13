@@ -33,7 +33,7 @@ currently figuring out where my interests in software, ML, and finance all meet 
 ### 🔮 a little about me
 
 - 🎓 **cs + finance** @ [university of waterloo](https://uwaterloo.ca/)
-- 🦆 **sponsorship coordinator** @ [hack the north](https://hackthenorth.com/) — canada's largest hackathon, helped raise over **$1M** with the team!
+- 🦆 **sponsorship coordinator** @ [hack the north](https://hackthenorth.com/) — canada's largest hackathon, helped raise over **$x,xxx,xxx** with the team!
 - 💻 **prev technical pm / automation developer intern** @ [fsra](https://www.fsrao.ca/)
 - 📈 really into **backend systems, machine learning, fintech, and quant**
 - 🏎️ a total **f1 fan** (probably thinking about race strategy somewhere)
