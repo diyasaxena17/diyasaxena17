@@ -50,16 +50,6 @@ somehow ended up on both sides of hackathons.
 - **cxc** → sponsorship
 - **chesshacks** → tried building a chess bot *(emphasis on tried)*
 
-### 💻 things i speak
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,react,pytorch,sklearn,git&theme=dark" alt="Tech stack"/>
-</p>
-
-`SQL` · `pandas` · `NumPy` · `FastAPI` · `C`
-
-*mostly used to make computers do things they probably didn't ask to do.*
-
 ---
 
 ### 💜 a little github activity
