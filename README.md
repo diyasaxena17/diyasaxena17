@@ -9,39 +9,22 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/diya-saxena/">
-    <img src="https://img.shields.io/badge/linkedin-6366F1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:diya.saxena@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/email-A78BFA?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/diyasaxena2007">
-    <img src="https://img.shields.io/badge/x-8B5CF6?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
+  <a href="https://www.linkedin.com/in/diya-saxena/"><img src="https://img.shields.io/badge/linkedin-6366F1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:diya.saxena@uwaterloo.ca"><img src="https://img.shields.io/badge/email-A78BFA?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a><a href="https://x.com/diyasaxena2007"><img src="https://img.shields.io/badge/x-8B5CF6?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 </div>
 
 ## hey, i'm diya! :)
 
-a little bit of finance, a little bit of code, and way too much curiosity about how things work.
-
-i love going down rabbit holes, learning about things i knew absolutely nothing about yesterday, and turning random *"wait... could i build that?"* thoughts into actual things.
-
-currently figuring out where my interests in software, ML, and finance all meet (and having a lot of fun doing it).
-
 ### 🔮 a little about me
 
 - 🎓 **cs + finance** @ [university of waterloo](https://uwaterloo.ca/)
 - 🦆 **sponsorship coordinator** @ [hack the north](https://hackthenorth.com/) — canada's largest hackathon, helped raise over **$x,xxx,xxx** with the team!
-- 💻 **prev technical pm / automation developer intern** @ [fsra](https://www.fsrao.ca/)
-- 📈 really into **backend systems, machine learning, fintech, and quant**
-- 🏎️ a total **f1 fan** (probably thinking about race strategy somewhere)
+- 💻 **prev automation developer intern** @ [fsra](https://www.fsrao.ca/)
+- 🏎️ a total **f1 fan** 
 - 🕳️ constantly falling into random technical, financial, and scientific rabbit holes
 
 ### 🦆 hackathon lore
-
-somehow ended up on both sides of hackathons.
 
 - **hack the north** → organizer
 - **cerebras x google gemma 4 hackathon** → hacker
@@ -52,7 +35,7 @@ somehow ended up on both sides of hackathons.
 
 ---
 
-### 💜 a little github activity
+### 👾 a little github activity
 
 <div align="center">
   <picture>
@@ -71,13 +54,13 @@ somehow ended up on both sides of hackathons.
 
 ---
 
-### 💌 say hi!
 
-if you're building something weird, useful, financial, data-y, or unnecessarily ambitious, i'd probably love to hear about it.
+### 💜 say hi!
 
-or if you just want to talk about f1, new tech, or a completely random rabbit hole, that works too :)
+<p>
+  <a href="https://www.linkedin.com/in/diya-saxena/"><img src="https://img.shields.io/badge/linkedin-6366F1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><img src="https://img.shields.io/badge/diya%20%5Bdot%5D%20saxena%20%5Bat%5D%20uwaterloo%20%5Bdot%5D%20ca-A78BFA?style=flat-square&logo=gmail&logoColor=white" alt="diya [dot] saxena [at] uwaterloo [dot] ca"/><a href="https://x.com/diyasaxena2007"><img src="https://img.shields.io/badge/x-8B5CF6?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-[linkedin](https://www.linkedin.com/in/diya-saxena/) · [x](https://x.com/diyasaxena2007) · [email](mailto:diya.saxena@uwaterloo.ca)
 
 <div align="center">
 
