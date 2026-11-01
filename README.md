@@ -27,7 +27,7 @@
 ### 🦆 hackathon lore
 
 **hack the north** → organizer, **cerebras x google gemma 4 hackathon** → hacker, **hack the six 2026** → hacker, **deltahacks 12** → hacker, **cxc** → sponsorship, **chesshacks** → tried building a chess bot *(emphasis on tried)*
-
+ 
 ---
 
 ### 👾 a little github activity
