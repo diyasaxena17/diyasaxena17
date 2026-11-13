@@ -16,7 +16,7 @@
  
 ## hey, i'm diya! :)
 
-### 🔮 a little about me
+### 🔮 about me
 
 - 🎓 **cs + finance** @ [university of waterloo](https://uwaterloo.ca/)
 - 🦆 **sponsorship coordinator** @ [hack the north](https://hackthenorth.com/) — canada's largest hackathon, helped raise over **$x,xxx,xxx** with the team!
@@ -29,8 +29,6 @@
 **hack the north** → organizer, **cerebras x google gemma 4 hackathon** → hacker, **hack the six 2026** → hacker, **deltahacks 12** → hacker, **cxc** → sponsorship, **chesshacks** → tried building a chess bot *(emphasis on tried)*
  
 ---
-
-### 👾 a little github activity
 
 <div align="center">
   <picture>
@@ -50,7 +48,7 @@
 ---
 
 
-### 💜 say hi!
+### 💜 lets chat!
 
 <p>
   <a href="https://www.linkedin.com/in/diya-saxena/"><img src="https://img.shields.io/badge/linkedin-6366F1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><img src="https://img.shields.io/badge/diya%20%5Bdot%5D%20saxena%20%5Bat%5D%20uwaterloo%20%5Bdot%5D%20ca-A78BFA?style=flat-square&logo=gmail&logoColor=white" alt="diya [dot] saxena [at] uwaterloo [dot] ca"/><a href="https://x.com/diyasaxena2007"><img src="https://img.shields.io/badge/x-8B5CF6?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
